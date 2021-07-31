@@ -1,3 +1,4 @@
+package kyu7;
 
 public class JadenCasingStrings {
 	public class JadenCase {

@@ -1,3 +1,4 @@
+package kyu6;
 
 public class WhoLikesIt {
     public static String whoLikesIt(String... names) {
